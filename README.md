@@ -11,3 +11,8 @@ This is a laboratory report on Communication 2. In this report, viewers can see 
 *  Summary and Learnings
 
 ## Antenna Trainer 
+### Introduction
+An antenna trainer is a lab equipment designed to explore the fundamental concepts of antenna systems and wireless communications. It enables students to conduct practical experiments on radiation patterns, gain, polarization, impedance matching, and signal transmission. By engaging in hands-on testing and measurement, learners can gain a clearer comprehension of how antennas send and receive electromagnetic waves. The antenna trainer is commonly utilized in the fields of electronics and telecommunications education to link theoretical ideas with actual wireless applications.
+
+### Antenna Types
+
