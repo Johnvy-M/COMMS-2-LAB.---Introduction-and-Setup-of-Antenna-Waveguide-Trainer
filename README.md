@@ -137,9 +137,9 @@ The waveguide trainer serves as a practical tool for exploring how microwave sig
  
  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/60755312928bddf54850503739b7f847c56ef029/Waveguide/4dec7b69-fa4b-4002-b426-6cfbce5e8126.jpg" alt="Waveguide">
   
- <img src="" alt="Waveguide">
+ <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/c21f73e1808bd6d888ab72561a60941b6667cb96/Waveguide/b269359e-b11a-4517-8c57-6238b033e0b6.jpg" alt="Waveguide">
 
- <img src="" alt="Waveguide">
+ <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/c21f73e1808bd6d888ab72561a60941b6667cb96/Waveguide/b5007a75-c03f-48aa-a6f9-bc7214485426.jpg" alt="Waveguide">
 
- <img src="" alt="Waveguide">
+ <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/c21f73e1808bd6d888ab72561a60941b6667cb96/Waveguide/e5dd1195-d6a7-48ea-b281-ce9580c2feaa.jpg" alt="Waveguide">
 
