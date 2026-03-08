@@ -121,16 +121,28 @@ This experiment explores the fundamental concepts of wireless communication via 
 
 <details>
   <summary>Setup</summary>
-   <div align="center">
-
+   
+ #### Components and Equipments
+ * Matching Stub for antenna trainer
+ * RF Detector
+ * Oscilloscope
+ * Signal Generator
+ * Coaxial Cable
+ * Transmitting Antenna
+ * Transmitting Antenna Mast
+ *  Receiving Antenna
+ *  Receiving Antenna Mast
+     
    <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/ad47a62d0c996f5c532f855364f57fec0560789e/Antenna/8615996f-10c5-49e4-aa8e-de090c067e19.jpg" alt="Antenna">
    
    <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/ad47a62d0c996f5c532f855364f57fec0560789e/Antenna/dd7a6146-fd67-4f37-bea5-824931f81244.jpg" alt="Antenna">
   
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/ad47a62d0c996f5c532f855364f57fec0560789e/Antenna/fc945eee-4bb8-4d4f-8487-4965e0ae7e8b.jpg" alt="Antenna">
 
-   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/60755312928bddf54850503739b7f847c56ef029/Antenna/IMG_8636.HEIC" alt="Antenna">
-</div>
+   <img src="https://github.com/EarlArugay/EM-Waveguide-Antenna-Compendium-Theory-Design-and-Pattern/blob/bb75a80c8a8389443a37ab14c7b2510934d1ac28/Types_of_Antenna/Receiving-setup.jpg" alt="Antenna">
+  
+   <img src="https://github.com/EarlArugay/EM-Waveguide-Antenna-Compendium-Theory-Design-and-Pattern/blob/bb75a80c8a8389443a37ab14c7b2510934d1ac28/Types_of_Antenna/Transmitting-setup1.jpg" alt="Antenna">
+
 </details>
 
 <details>
