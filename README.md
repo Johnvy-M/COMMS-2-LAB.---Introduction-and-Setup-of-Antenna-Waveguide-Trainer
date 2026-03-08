@@ -9,7 +9,6 @@ This is a laboratory report on Communication 2. In this report, viewers can see 
 * Antenna Trainer
 * Experiment Using Antenna Trainer Kit
 *  Waveguide Trainer
-*  Experiment Using Waveguide Trainer 
 *  Summary and Learnings
 
 ## Antenna Trainer 
