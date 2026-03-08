@@ -120,8 +120,49 @@ This experiment explores the fundamental concepts of wireless communication via 
 <details>
   <summary>Results</summary>
    <div align="center">
+    
+ <details>
+  <summary>INPUT</summary>
+   <div align="center">
+     <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/9.jpg" alt="Antenna">
+     <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/10.jpg" alt="Antenna">
+     <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/17.jpg" alt="Antenna">
+   
+   </div>
+  </details>
+     
+  <details>
+    <summary>WAVE SIGNAL OUTPUT</summary>
+   <div align="center">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/2.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/3.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/4.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/6.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/11.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/13.jpg" alt="Antenna">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/19.jpg" alt="Antenna">
+   <img src="" alt="Antenna">
+   <img src="" alt="Antenna">
+   <img src="" alt="Antenna">
+   <img src="" alt="Antenna">
 
+  </div>
+  </details>
 
+   <details>
+  <summary>OUTPUT</summary>
+   <div align="center">
+     <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/1.jpg" alt="Antenna">
+      <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/8.jpg" alt="Antenna">
+      <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/12.jpg" alt="Antenna">
+      <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/15.jpg" alt="Antenna">
+      <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/16.jpg" alt="Antenna">
+      <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Introduction-and-Setup-of-Antenna-Waveguide-Trainer/blob/abc20a0ec25b406c90f6cbac2e7791bb1a5fa746/Results%20in%20Antenna/18.jpg" alt="Antenna">
+    
+   
+   </div>
+  </details>
+  
    </div>
 </details>
 
